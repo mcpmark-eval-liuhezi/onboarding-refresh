@@ -1,11 +1,7 @@
-# Onboarding Flow Outline (Draft)
+# Onboarding Flow Outline
 
-New onboarding flow for the team kickoff.
-
-## Outline
-
-- **Welcome**: Automated welcome email with a personal note from the onboarding buddy.
-- **Setup**: New hires clone the repo, add SSH keys, and finish the first demo within day one.
-- **Checklist**: One checklist per new hire covering tools, repo access, and team intros.
-- **Walkthrough video**: A short recorded walkthrough of the first-day experience for quick reference.
-- **Buddy pairing**: Every new hire is paired with an existing team member for the first two weeks.
+- **Welcome & orientation** — day-one README, account setup, and intro to the team wiki.
+- **Guided walkthrough video** — record a short video covering the first-week flow (repo setup, first PR, demo task).
+- **Onboarding checklist** — checklist covering accounts, tools, first PR, and buddy check-ins.
+- **Buddy pairing schedule** — pair every new hire with an assigned onboarding buddy for the first two weeks.
+- **Follow-up & feedback** — short pulse survey at end of week 1 and week 2 to catch friction early.
