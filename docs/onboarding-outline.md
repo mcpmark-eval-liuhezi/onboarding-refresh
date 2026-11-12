@@ -1,7 +1,26 @@
-# Onboarding Flow Outline
+# Onboarding Flow Outline (Draft)
 
-- **Welcome & orientation** — day-one README, account setup, and intro to the team wiki.
-- **Guided walkthrough video** — record a short video covering the first-week flow (repo setup, first PR, demo task).
-- **Onboarding checklist** — checklist covering accounts, tools, first PR, and buddy check-ins.
-- **Buddy pairing schedule** — pair every new hire with an assigned onboarding buddy for the first two weeks.
-- **Follow-up & feedback** — short pulse survey at end of week 1 and week 2 to catch friction early.
+A few bullets outlining the revised onboarding experience for new team members.
+
+## New Onboarding Flow
+
+- **Day 1 — Welcome & Setup**
+  - Automated welcome email with Everything README link and buddy assignment.
+  - New hire completes account provisioning (repo access, CI token, documentation editor).
+
+- **Week 1 — Guided Tour**
+  - Buddy-led walkthrough of the repo structure, CONTRIBUTING guide, and first open issue.
+  - Complete the onboarding checklist (tracked in epic #34).
+
+- **Week 2 — First Contribution**
+  - Land a small first PR (docs fix, tiny refactor, or test addition).
+  - Reviewers use the onboarding review checklist to keep feedback consistent.
+
+- **By End of Month — Confident Independent**
+  - New hire picks up a small feature task with minimal hand-holding.
+  - Walkthrough video (tracked in #36) published to the team handbook.
+
+## Open Topics
+
+- _Add a foo onboarding slide deck link here._
+- _Decide whether the buddy schedule (#37) rotates quarterly._
