@@ -1,26 +1,22 @@
-# Onboarding Flow Outline (Draft)
+# Onboarding Flow Outline
 
-A few bullets outlining the revised onboarding experience for new team members.
+This draft outlines the revamped onboarding experience for new team members.
 
-## New Onboarding Flow
+## Core Areas
 
-- **Day 1 — Welcome & Setup**
-  - Automated welcome email with Everything README link and buddy assignment.
-  - New hire completes account provisioning (repo access, CI token, documentation editor).
+- **Account setup**: Self-service GitHub account provisioning, repository access, and first-time SSH/GPG key configuration.
+- **Welcome walkthrough**: A short recorded video covering the new onboarding flow, shared in the team wiki.
+- **Onboarding checklist**: A tracked checklist of steps new hires complete during their first weeks (repo access, first project walkthrough, completion criteria).
+- **Buddy pairing**: Assign each new hire an experienced buddy within the first week, with a recurring pairing schedule for questions and code reviews.
 
-- **Week 1 — Guided Tour**
-  - Buddy-led walkthrough of the repo structure, CONTRIBUTING guide, and first open issue.
-  - Complete the onboarding checklist (tracked in epic #34).
+## Proposed Timeline
 
-- **Week 2 — First Contribution**
-  - Land a small first PR (docs fix, tiny refactor, or test addition).
-  - Reviewers use the onboarding review checklist to keep feedback consistent.
+- Day 1: Account setup + welcome video + buddy introduction
+- Week 1: Checklist walkthrough and first small PR
+- Week 2-4: Buddy check-ins, checklist completion, and feedback loop
 
-- **By End of Month — Confident Independent**
-  - New hire picks up a small feature task with minimal hand-holding.
-  - Walkthrough video (tracked in #36) published to the team handbook.
+## Next Steps
 
-## Open Topics
-
-- _Add a foo onboarding slide deck link here._
-- _Decide whether the buddy schedule (#37) rotates quarterly._
+- Draft the onboarding checklist (tracked in #39)
+- Record the welcome walkthrough video (tracked in #40)
+- Set up the buddy pairing schedule (tracked in #41)
