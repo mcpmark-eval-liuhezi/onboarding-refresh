@@ -1,22 +1,22 @@
 # Onboarding Flow Outline
 
-This draft outlines the revamped onboarding experience for new team members.
+A short outline of the refreshed onboarding experience for new team members.
 
-## Core Areas
+## New Onboarding Flow
 
-- **Account setup**: Self-service GitHub account provisioning, repository access, and first-time SSH/GPG key configuration.
-- **Welcome walkthrough**: A short recorded video covering the new onboarding flow, shared in the team wiki.
-- **Onboarding checklist**: A tracked checklist of steps new hires complete during their first weeks (repo access, first project walkthrough, completion criteria).
-- **Buddy pairing**: Assign each new hire an experienced buddy within the first week, with a recurring pairing schedule for questions and code reviews.
+- **Day 1 welcome**: Automated welcome email with calendar invite to the onboarding Slack channel and a 30-minute intro call with a buddy.
+- **Week 1 checklist**: Complete account setup (SSO, repository access, CI badge), read the team README, and watch the onboarding walkthrough video.
+- **Week 2 hands-on**: Pair programming session with a buddy, first pull request to the main branch, and a check-in with the team lead.
+- **Month 1 goals**: Ship at least one small feature, join the viceroy sync, and fill out the onboarding feedback form.
 
-## Proposed Timeline
+## Key Channels & Resources
 
-- Day 1: Account setup + welcome video + buddy introduction
-- Week 1: Checklist walkthrough and first small PR
-- Week 2-4: Buddy check-ins, checklist completion, and feedback loop
+- Onboarding Slack channel: `#new-hires`
+- Buddy matching: requested via the onboarding form
+- Documentation: `docs/` folder in this repository
 
-## Next Steps
+## Success Metrics
 
-- Draft the onboarding checklist (tracked in #39)
-- Record the welcome walkthrough video (tracked in #40)
-- Set up the buddy pairing schedule (tracked in #41)
+- New hires complete the checklist within 5 business days.
+- Each new hire is paired with a buddy within 48 hours.
+- Onboarding feedback score is above 4/5 after the first month.
